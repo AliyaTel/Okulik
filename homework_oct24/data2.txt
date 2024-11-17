@@ -1,0 +1,1 @@
+{"country": "Greece", "aug_temp": 28}

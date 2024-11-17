@@ -1,0 +1,1 @@
+{"country": "Turkey", "aug_temp": 30}
